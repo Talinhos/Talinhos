@@ -6,7 +6,6 @@
 :fountain_pen:Atualmente estou estudando JavaScript, ReactJs, AngularJs e NodeJs.
 
 
-HTML CSS JS Reagir
 
 <code>
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
